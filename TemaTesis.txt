@@ -1,0 +1,37 @@
+Estimado ing. Santiago Morales.
+
+
+
+Le saluda José Luis Anrango Perugachi y Hamilton Berrezueta por el tema de la tesis.
+
+
+
+Tema: 
+
+Identificación de enfermedades bucales para su posterior seguimiento de los estudiantes de primer semestre de la Universidad Central del Ecuador.
+
+
+
+Objetivos generales:
+
+Determinar las distintas enfermedades bucales y prevalencia de las mismas en los estudiantes de primer semestre de la Universidad Central del Ecuador .
+Proponer programa de seguimiento para la prevención y tratamiento de enfermedades bucales de los estudiantes de primer semestre de la Universidad Central del Ecuador
+Objetivos específicos:
+
+Identificar mediante indicadores los indices de enfermedades bucales en los estudiantes .
+Realizar gráficos estadísticos mediante programas que permitan visualizar los indices de enfermedades bucales en los estudiantes y su concurrencia .
+
+Programa que permita determinar por facultad los niveles de afecciones bucales para su futura prevención o tratamiento .
+
+Alcance:
+
+El proyecto integrador tiene la finalidad  de cumplir con los siguientes puntos: Aplicación con gráficos en indices estadísticos que permitirán identificar el estado de las enfermedades bucales en los estudiantes de primer semestre de la Universidad Central del Ecuador 
+
+Por otro lado se podrá acceder a la información del estado en que se encuentra cada uno de los estudiantes con distintos indicadores filtrados por facultad, carrera, sexo , edad y tipo de enfermedad  para facilitar la prevención y seguimiento de las distintas enfermedades bucales.
+
+
+
+Integrantes:
+Luis Anrango Perugachi 
+
+Hanmilton Jhoel Berrezueta Carmona
